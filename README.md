@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
-- 👨‍💻 All of my projects are available at [GitHub-I](https://github.com/umairmubasher) & [GitHub-II](https://github.com/muhammadumairmubasher)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/umairmubasher)
 
 - 💬 Ask me about **JavaScript & JS libraries, ReactJS, Ionic React, NextJS, OOP, Css libraries, Web Engineering, SQL/PostgreSQL, MERN Stack, Fornt-end, Full Stack Development and C/C++**
 
