@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on project **[Lula Convenience](https://www.lulaconvenience.com/)**
 
-- 🌱 Lately, I'm learning **JS & CSS libraries, NextJS, ReactJS, Ionic React, NodeJS, PostgreSQL and MERN stack**
+- 🌱 Lately, I'm learning **TS/JS & CSS libraries, NextJS, ReactJS, Ionic React, NodeJS, PostgreSQL and MERN stack**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/umairmubasher)
 
-- 💬 Ask me about **JavaScript & JS libraries, ReactJS, Ionic React, NextJS, OOP, Css libraries, Web Engineering, SQL/PostgreSQL, MERN Stack, Fornt-end, Full Stack Development and C/C++**
+- 💬 Ask me about **TypeScript/JavaScript & TS/JS libraries, ReactJS, Ionic React, NextJS, OOP, Css libraries, Web Engineering, SQL/PostgreSQL, MERN Stack, Fornt-end, Full Stack Development and C/C++**
 
 - 📫 Reach me via [Email](mailto:muhamadumair7445@gmail.com)
 
