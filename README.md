@@ -60,7 +60,7 @@
  <details open>
   <summary> 😇 <b>My Github Stats</b> </summary><br>
    <div align = "center">
-        <img src = "https://github-readme-stats-umair-mubashers-projects.vercel.app/api/top-langs/?username=umairmubasher&theme=tokyonight&layout=compact">
+        <img src = "https://github-readme-stats-umair-mubashers-projects.vercel.app/api/top-langs?username=umairmubasher&theme=tokyonight&layout=compact">
     </div></br>
    <div align = "center">
         <img src = "https://github-readme-stats-umair-mubashers-projects.vercel.app/api/?username=umairmubasher&show_icons=true&theme=tokyonight&line_height=27">
