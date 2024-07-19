@@ -1,24 +1,24 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair Mubasher</h1>
-<h3 align="center">Software Engineer | Self Learner</h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>  
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20👋,%20I'm%20Muhammad%20Umair%20Mubasher&section=header&desc=Software%20Engineer&descSize=20&descAlignY=63&descAlign=49&fontSize=38)
+<img align="right" height="150"  alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umairmubasher&label=Profile+views&color=red&style=flat" alt="umairmubasher" /></p>
-📖 I am a highly motivated software engineer, PUCIT graduate, committed to tackling advanced challenges and consistently expanding my technological expertise. With a focus on strategic problem-solving and adaptability, I aspire to demonstrate leadership in the IT industry. Eager to contribute my technical and analytical skills, I am poised to excel in diverse and dynamic environments.
 
-- 🔭 I’m currently working on project **[Lula Convenience](https://www.lulaconvenience.com/)**
+📖 I am a highly motivated experienced software engineer, PUCIT graduate, committed to tackling advanced challenges and consistently expanding my technological expertise. With a focus on strategic problem-solving and adaptability, I aspire to demonstrate leadership in the IT industry. Eager to contribute my technical and analytical skills, I am poised to excel in diverse and dynamic environments.
 
-- 🌱 Lately, I'm learning **TS/JS & CSS libraries, NextJS, ReactJS, Ionic React, NodeJS, PostgreSQL and MERN stack**
+- 🔭 **Current Project**: Working on **[Lula Commerce](https://www.lulaconvenience.com/)**
 
-- 👯 I’m looking to collaborate on **Any Open Source Project**
+- 🌱 **Technical Proficiencies**: Experienced in TypeScript/JavaScript & CSS libraries, Next.js, React.js, Ionic React, Node.js, PostgreSQL, and the MERN stack
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/umairmubasher)
+- 💬 **Expertise:** Ask me about TypeScript/JavaScript & TS/JS libraries, React.js, Ionic React, Next.js, OOP, CSS libraries, Web Engineering, SQL/PostgreSQL, MERN Stack, Front-end,    Full Stack Development, and C/C++
 
-- 💬 Ask me about **TypeScript/JavaScript & TS/JS libraries, ReactJS, Ionic React, NextJS, OOP, Css libraries, Web Engineering, SQL/PostgreSQL, MERN Stack, Fornt-end, Full Stack Development and C/C++**
+- 👨‍💻 **Portfolio:** All of my projects are available on [GitHub](https://github.com/umairmubasher)
 
-- 📫 Reach me via [Email](mailto:muhamadumair7445@gmail.com)
+- 📫 **Contact:** Reach me via  [Email](mailto:muhamadumair7445@gmail.com)
 
-- 📄 Know about my experiences [watch my resume]()
+- 📄 **Resume:** View my experiences in my [resume](https://umairmubasher.github.io/)
 
-- ⚡ Fun fact **I love to watch, read, eat, sleep and Code**
+- 👯 **Collaboration:** Open to collaborating on any open-source project
+
+- ⚡ **Fun Fact:** I love to watch, read, eat, sleep, and code
 
 <h3 align="center">Frameworks, Libraries and Languages</h3>
 
