@@ -85,3 +85,5 @@
   <a  href="https://fb.com/mumairmubasher" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mumairmubasher" height="30" width="40" /></a>
   <a href="https://instagram.com/mumairmubasher" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mumairmubasher" height="30" width="40" /></a>
 </div>
+<img src="https://raw.githubusercontent.com/salmanpaul/salmanpaul/output/snake.svg" alt="Snake animation" />
+
