@@ -57,16 +57,8 @@
 
 ---
 <div align="center">
- <details open>
-  <summary> 😇 <b>My Github Stats</b> </summary><br>
-   <div align = "center">
-        <img src = "https://github-readme-stats-umair-mubashers-projects.vercel.app/api/top-langs?username=umairmubasher&theme=tokyonight&layout=compact">
-    </div></br>
-   <div align = "center">
-        <img src = "https://github-readme-stats-umair-mubashers-projects.vercel.app/api?username=umairmubasher&show_icons=true&theme=tokyonight&line_height=27">
-   </div>
-  </details>
-<div>
+  <img src="https://streak-stats.demolab.com?user=umairmubasher&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 ---
 <div align="center">
